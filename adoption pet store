@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Pet Adoption Center</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Happy Paws Adoption Center</h1>
+  <p>Find your new best friend!</p>
+
+  <div class="pets">
+
+    <div class="pet">
+      <img src="dog.jpg" alt="Cute Puppy">
+      <h2>Buddy</h2>
+      <p>Playful Puppy</p>
+    </div>
+
+    <div class="pet">
+      <img src="kitten.jpg" alt="Cute Kitten">
+      <h2>Luna</h2>
+      <p>Cute Kitten</p>
+    </div>
+
+    <div class="pet">
+      <img src="Rabbit.jpg" alt="Snowball">
+      <h2>Snowball</h2>
+      <p>Fluffy Rabbit</p>
+    </div>
+
+    <div class="pet">
+      <img src="parrot.jpg" alt="Coco">
+      <h2>Coco</h2>
+      <p>Talking Parrot</p>
+    </div>
+
+    <div class="pet">
+      <img src="Hamster.jpg" alt="Hamster">
+      <h2>Peanut</h2>
+      <p>Little Hamster</p>
+    </div>
+
+    <div class="pet">
+      <img src="Turtle.jpg" alt="Turtle">
+      <h2>Speedy</h2>
+      <p>Friendly Turtle</p>
+    </div>
+
+  </div>
+
+  <h2>Adopt a Pet Today!</h2>
+
+</body>
+</html>
